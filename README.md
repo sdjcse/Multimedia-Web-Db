@@ -9,6 +9,8 @@ The three tasks are:
 The output directory contains output files for the three tasks listed. 
 
 The following code does the following functionalities:
-1. code/firstTask/colorHist.m - contains code for color histogram extraction from video files
-2. code/sift/siftVectEx.m - contains code to extract SIFT vector features from the video files
-3. code/myCode.m - contains code to extract motion vector from given video files
+\n 1. code/firstTask/colorHist.m - contains code for color histogram extraction from video files
+\n 2. code/sift/siftVectEx.m - contains code to extract SIFT vector features from the video files
+\n 3. code/myCode.m - contains code to extract motion vector from given video files
+
+Note: Have removed the sift vector output from the output folder due to size constraints 
